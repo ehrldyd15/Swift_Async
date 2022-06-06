@@ -17,3 +17,5 @@
 | 목록 | URL |
 | ------ | ------ |
 | Combine의 개념 |  |
+
+https://www.youtube.com/watch?v=StU9EpsvWyM
