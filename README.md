@@ -17,4 +17,4 @@
 | 목록 | URL |
 | ------ | ------ |
 | Combine [Publisher, Subscriber] | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%5BPublisher,-Subscriber%5D |
-
+| Combine [Subject] | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%5BPublisher,-Subscriber%5D |
