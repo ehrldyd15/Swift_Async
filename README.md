@@ -18,4 +18,4 @@
 | ------ | ------ |
 | Combine [Publisher, Subscriber] | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%5BPublisher,-Subscriber%5D |
 | Combine [Subject] | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%5BSubject%5D |
-| Combine [Scheduler] | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%5BSubject%5D |
+| Combine [Scheduler] | https://github.com/ehrldyd15/Swift_Async/wiki/Combine%5BScheduler%5D |
