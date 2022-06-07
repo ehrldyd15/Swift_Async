@@ -16,5 +16,5 @@
 
 | 목록 | URL |
 | ------ | ------ |
-| Combine의 개념 | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%5BPublisher,-Subscriber%5D |
+| Combine [Publisher, Subscriber] | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%5BPublisher,-Subscriber%5D |
 
