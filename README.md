@@ -20,4 +20,4 @@
 | Combine [Subject] | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%5BSubject%5D |
 | Combine [Scheduler] | https://github.com/ehrldyd15/Swift_Async/wiki/Combine%5BScheduler%5D |
 | Combine [AnyCancellable] | https://github.com/ehrldyd15/Swift_Async/wiki/Combine%5BAnyCancellable%5D |
-| Combine 강의정리 1 | https://github.com/ehrldyd15/Swift_Async/wiki/Combine%5BAnyCancellable%5D |
+| Combine 강의정리 1 | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC-1 |
