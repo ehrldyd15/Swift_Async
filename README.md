@@ -23,3 +23,5 @@
 | Combine 강의정리 1 | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC-1 |
 | Combine 강의정리 2 | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC-2 |
 | Combine 강의정리 3 | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC-3 |
+| Combine 강의정리 4 | https://github.com/ehrldyd15/Swift_Async/wiki/Combine-%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC-3 |
+https://www.youtube.com/watch?v=73es1FDmm2g&t=306s
